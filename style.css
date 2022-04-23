@@ -1,8 +1,8 @@
 .head {
     font-family: "Lucida Console", "Courier New", monospace;
     font-weight: 700;
-    background-color: #6b71e5d7;
-    color: #ffc662;
+    background-color: #6b71e5cc;
+    color: #e6b157;
     text-align: center;
     text-emphasis: sesame;
     text-emphasis-position: under;
@@ -12,22 +12,33 @@
 }
 .text {
     font-family: "Lucida Console", monospace;
-    color: #434656;
-    background-color: #eb3d65;
+    color: #434656dc;
+    background-color: #eb3d66dc;
     font-size: 18px;
-    font-weight:400;
+    font-weight:500;
     font-style: italic
 }
 .p {
     text-align: center;
 }
+.link {
+    font-family: "Lucida Console", monospace;
+}
 .link:visited {
     color: #ce72e5;
 }
 .link:hover {
-    color:#ffc662;
+    color:#e49000;
 }
 body {
     background-color: #6b71e54d;
+}
+un {
+    font-family: "Lucida Console", monospace;
+    color: #434656dc;
+    background-color: #eb3d66dc;
+    font-size: 18px;
+    font-weight:500;
+    font-style: italic
 }
 
