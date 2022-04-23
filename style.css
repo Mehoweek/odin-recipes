@@ -1,0 +1,33 @@
+.head {
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-weight: 700;
+    background-color: #6b71e5d7;
+    color: #ffc662;
+    text-align: center;
+    text-emphasis: sesame;
+    text-emphasis-position: under;
+}
+.main {
+    text-emphasis: none;
+}
+.text {
+    font-family: "Lucida Console", monospace;
+    color: #434656;
+    background-color: #eb3d65;
+    font-size: 18px;
+    font-weight:400;
+    font-style: italic
+}
+.p {
+    text-align: center;
+}
+.link:visited {
+    color: #ce72e5;
+}
+.link:hover {
+    color:#ffc662;
+}
+body {
+    background-color: #6b71e54d;
+}
+
